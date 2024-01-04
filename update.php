@@ -1,14 +1,14 @@
 <html>
 <head>
-<title>View All</title>
+<title>update</title>
 <style>
 body
 {
-	background-image:url('l.jpg');
+	background-image:url('libpic.jpg');
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:cover;
-	color:PaleGreen;
+	
 }
 </style>
 </head>
